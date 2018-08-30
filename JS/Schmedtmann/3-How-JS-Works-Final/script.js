@@ -111,3 +111,56 @@ var mike = {
 mike.calculateAge = john.calculateAge;
 mike.calculateAge();
 */
+
+/*
+var markMass = 60;
+var markH = 1.60;
+var johnMass = 80;
+var johnH = 1.80;
+
+function bmi(mass, height) {
+    bmi_ind = mass / (height * height);
+    return bmi_ind;
+
+}
+
+markBmi = bmi(markMass, markH);
+johnBmi = bmi(johnMass, johnH);
+
+
+if (markBmi > johnBmi) {
+    console.log("Mark's BMI (" + markBmi + ") is higher than John's (" + johnBmi + ")" );
+    } else {
+    console.log("John's BMI (" + johnBmi + ") is higher than Mark's (" + markBmi + ")" );
+}
+
+*/
+
+
+var john = {
+    name: "John",
+    mass: 92,
+    height: 1.95,
+    calcBMI : function () {
+        this.bmi = this.mass / (this.height * this.height);
+        return this.bmi;
+    }
+};
+
+var mark = {
+    name: "Mark",
+    mass: 78,
+    height: 1.69,
+    calcBMI : function () {
+        this.bmi = this.mass / (this.height * this.height);
+        return this.bmi;
+    }
+};
+
+if (john.calcBMI() > mark.calcBMI()) { //because we have it returned
+    console.log(john.name +" (" + john.bmi + ") > " + mark.name + "'s (" + mark.bmi);
+} else if (mark.bmi > john.bmi) {
+    console.log(mark.name +"'s (" + mark.bmi + ") > " + john.name + "'s (" + john.bmi);
+} else {
+    console.log("Mark's (" + mark.bmi + ") is === to John's (" + john.bmi +")");
+}

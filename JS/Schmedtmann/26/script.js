@@ -123,6 +123,8 @@ if (age < 20) {
 }
 
 
+
+
 var job = 'teacher';
 
 job = prompt('What does john do?');
@@ -272,10 +274,13 @@ yearsUntilRetirement('Mary', 1948);
 ///////////////////////////////////////
 // Lecture: Statements and expressions
 /*
+
+//function declaration
 function someFun(par) {
     //code
 }
 
+// function expression
 var someFun = function(par) {
     //code
 }
@@ -311,7 +316,7 @@ john.pop();
 john.shift();
 console.log(john);
 
-if (john.indexOf('teacher') === -1) {
+if (john.indexOf('teacher') === -1) { // if it is in the array
     console.log('John is NOT a teacher.');
 }
 */
@@ -321,7 +326,7 @@ if (john.indexOf('teacher') === -1) {
 ///////////////////////////////////////
 // Lecture: Objects
 /*
-var john = {
+var john = {  //object literal
     name: 'John',
     lastName: 'Smith',
     yearOfBirth: 1990,
@@ -336,6 +341,8 @@ var xyz = 'job';
 console.log(john[xyz]);
 //console.log(john.xyz); // doesn't work
 
+//mutating the object
+
 john.lastName = 'Miller';
 john['job'] = 'programmer';
 
@@ -343,7 +350,7 @@ console.log(john);
 
 
 
-
+// new obl syntax
 var jane = new Object();
 jane.name = 'Jane';
 jane.lastName = 'Smith';
@@ -487,6 +494,7 @@ for (var i = 1; i <= 5; i++) {
     console.log(i);
 }
 */
+/*
 bornYears2 = [2002, 1991, 1987, 1969, 1957];
 bornYears = [2012, 2001, 1997, 1979, 1967];
 
@@ -528,7 +536,7 @@ function printFullAge(years) {
 var full_2 = printFullAge(bornYears2);
 var full_1 = printFullAge(bornYears);
 
-
+*/
 
 ///////////////////////////////////////
 // CODING CHALLENGE 2
@@ -577,3 +585,108 @@ var full_2 = printFullAge([2012, 1915, 1999]);
 
 
 
+//Coding challenge 5
+var johnBills = {
+    name : "John",
+    bills : [124, 48, 268, 180, 42],
+    calcTips : function () {
+        this.tips = [];
+        this.totals = [];
+        for (var i = 0; i < this.bills.length; i++)
+        {
+            if (this.bills[i] < 50) {
+                this.tips.push(this.bills[i]*0.2);
+                this.totals.push(this.bills[i]+this.bills[i]*0.2)
+            } else if (this.bills[i] >= 50 && this.bills[i] < 200){
+                this.tips.push(this.bills[i]*0.15);
+                this.totals.push(this.bills[i]+this.bills[i]*0.15)
+            } else {
+                this.tips.push(this.bills[i]*0.1);
+                this.totals.push(this.bills[i]+this.bills[i]*0.1)
+            }
+        }
+        console.log(this.name + "'s tips : " + this.tips);
+        console.log(this.name + "'s totals: " + this.totals);
+        return this.tips, this.totals;
+
+    }
+
+};
+
+/* Should have been done this way
+var johnBills = {
+    name : "John",
+    bills : [124, 48, 268, 180, 42],
+    calcTips : function () {
+        this.tips = [];
+        this.totals = [];
+        for (var i = 0; i < this.bills.length; i++)
+        {
+            var percentage;
+            var bill = this.bills[i];
+
+            if (bill < 50) {
+                percentage = .2;
+            } else if (bill >= 50 && bill < 200){
+                percentage = .15;
+            } else {
+                percentage = .1;
+            }
+        }
+        this.tips[i] = bill * percentage;
+        this.totals[i] = bill + bill * percentage;
+        console.log(this.name + "'s tips : " + this.tips);
+        console.log(this.name + "'s totals: " + this.totals);
+        return this.tips, this.totals;
+
+    }
+
+};
+
+
+
+*/
+
+var markBills = {
+    name: "Mark",
+    bills: [77, 375, 110, 45],
+    calcTips: function () {
+        this.tips = [];
+        this.totals = [];
+        for (var i = 0; i < this.bills.length; i++)
+        {
+            if (this.bills[i] < 100) {
+                this.tips.push(this.bills[i] * 0.2);
+                this.totals.push(this.bills[i] + this.bills[i] * 0.2)
+            } else if (this.bills[i] >= 100 && this.bills[i] < 300) {
+                this.tips.push(this.bills[i] * 0.1);
+                this.totals.push(this.bills[i] + this.bills[i] * 0.1)
+            } else {
+                this.tips.push(this.bills[i] * 0.25);
+                this.totals.push(this.bills[i] + this.bills[i] * 0.25)
+            }
+        }
+        console.log(this.name + "'s tips: " + this.tips);
+        console.log(this.name + "'s totals: " + this.totals);
+        return this.tips, this.totals;
+    }
+}
+
+johnBills.calcTips();
+markBills.calcTips();
+
+function calcAvgTips(tips) {
+    sum = 0;
+    for (var i=0; i < tips.length; i++) {
+        sum = sum + tips[i];
+    }
+    var avgTips = sum / tips.length;
+    return avgTips;
+
+}
+
+console.log(johnBills.name + "'s avg tips " + calcAvgTips(johnBills.tips));
+console.log(markBills.name + "'s avg tips " + calcAvgTips(markBills.tips));
+johnBills.average = calcAvgTips(johnBills.tips);
+
+console.log(johnBills, markBills);

@@ -8,17 +8,18 @@
       <change afterPath="$PROJECT_DIR$/../Html-css/Grantspace/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Html-css/Grantspace/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Html-css/Layout Exercise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 3/Closures.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 3/FunctionScope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 3/call and apply.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 3/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 3/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 3/cart2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/Object_Prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/cart5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/extends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/p193.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/p195.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schmedtmann_orig/.idea/Schmedtmann_orig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schmedtmann_orig/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schmedtmann_orig/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schmedtmann_orig/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schmedtmann_orig/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HF/ch03/irock/irock4.html" beforeDir="false" afterPath="$PROJECT_DIR$/HF/ch03/irock/irock4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HF/ch04/sfa/sfa3.html" beforeDir="false" afterPath="$PROJECT_DIR$/HF/ch04/sfa/sfa3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schmedtmann/26/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Schmedtmann/26/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schmedtmann/3-How-JS-Works-Final/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Schmedtmann/3-How-JS-Works-Final/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +30,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1326" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="75" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,7 +66,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tern</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -64,6 +97,12 @@
         <option value="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/cart5.html" />
         <option value="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/Object_Prototype.js" />
         <option value="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/extends.js" />
+        <option value="$PROJECT_DIR$/HF/ch04/sfa/sfa3.html" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 6/extends.js" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/p193.html" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/p195.html" />
+        <option value="$PROJECT_DIR$/Schmedtmann/3-How-JS-Works-Final/script.js" />
+        <option value="$PROJECT_DIR$/Schmedtmann/26/script.js" />
       </list>
     </option>
   </component>
@@ -74,16 +113,18 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Schmedtmann_orig/9-forkify/final/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="102" />
-    <option name="y" value="66" />
-    <option name="width" value="1080" />
-    <option name="height" value="728" />
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -103,24 +144,42 @@
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Object-Oriented Programming with JavaScript - Working Files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
               <item name="Schmedtmann" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
               <item name="Schmedtmann" type="462c0819:PsiDirectoryNode" />
-              <item name="5-Advanced-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="3-How-JS-Works-Final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
               <item name="Schmedtmann" type="462c0819:PsiDirectoryNode" />
-              <item name="5-Advanced-JS-Final" type="462c0819:PsiDirectoryNode" />
+              <item name="4-DOM-Pig-Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="Schmedtmann" type="462c0819:PsiDirectoryNode" />
+              <item name="4-DOM-Pig-Game-Final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="Schmedtmann" type="462c0819:PsiDirectoryNode" />
+              <item name="26" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="Schmedtmann_orig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="Schmedtmann_orig" type="462c0819:PsiDirectoryNode" />
+              <item name="4-DOM-pig-game" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,7 +191,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pythond" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../1772_web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -168,7 +227,19 @@
       <workItem from="1528899972658" duration="17323000" />
       <workItem from="1529099326191" duration="517000" />
       <workItem from="1529331045903" duration="3607000" />
-      <workItem from="1529342940540" duration="42040000" />
+      <workItem from="1529342940540" duration="42163000" />
+      <workItem from="1530622325629" duration="2010000" />
+      <workItem from="1530795859556" duration="4328000" />
+      <workItem from="1531321023013" duration="813000" />
+      <workItem from="1531407028302" duration="24000" />
+      <workItem from="1531428010740" duration="593000" />
+      <workItem from="1531505776404" duration="6262000" />
+      <workItem from="1531748262704" duration="9367000" />
+      <workItem from="1531835800759" duration="5511000" />
+      <workItem from="1531924256724" duration="1357000" />
+      <workItem from="1532353945813" duration="621000" />
+      <workItem from="1532364242623" duration="26000" />
+      <workItem from="1532525976100" duration="1390000" />
     </task>
     <task id="LOCAL-00001" summary="Udemy and oReily JS beginning">
       <created>1529099468644</created>
@@ -177,14 +248,22 @@
       <option name="project" value="LOCAL" />
       <updated>1529099468644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Udemy and oReily JS beginning">
+      <created>1529702146404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529702146404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63665000" />
+    <option name="totallyTimeSpent" value="96090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30674848" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -218,83 +297,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="Udemy and oReily JS beginning" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/5-Advanced-JS/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="75" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HF/ch02/donuts5_IE.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/challenges.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="75" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HF/ch02/donuts5_IE.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/challenges.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/3-How-JS-Works-Final/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HF/ch02/donuts/donuts.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -321,13 +329,6 @@
     <entry file="file://$PROJECT_DIR$/HF/ch03/irock/readme.rtf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HF/ch01/irock/irock3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -345,39 +346,10 @@
     <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/challenges.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HF/ch02/donuts5_IE.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="75" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,9 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -500,6 +469,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HF/ch04/sfa/sfa1.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 6/extends.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="81" column="12" lean-forward="true" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HF/ch04/sfa/sfa3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HF/ch04/sfa/sfa2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/challenges.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/3-How-JS-Works-Final/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/26/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/3-How-JS-Works-Final/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="158" lean-forward="true" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/26/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="689" column="38" lean-forward="true" selection-start-line="689" selection-start-column="38" selection-end-line="689" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/p195.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object-Oriented Programming with JavaScript - Working Files/Chapter 5/p193.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HF/ch04/sfa/sfa4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann_orig/4-DOM-pig-game/starter/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="75" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Schmedtmann/4-DOM-Pig-Game-Final/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1326" />
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
