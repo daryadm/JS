@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+
+    <title>Head First JavaScript</title>
+
+    <script type="text/javascript">
+        var seats = [1,0,1,0,0,0,1,0,1,0,0,0];
+        var free_seats = [];
+
+        for (var s = 0; s < seats.length; s++) {
+             if (seats[s] === 0 && seats[s + 1] === 0 && seats[s + 2] === 0) {
+                free_seats.push(s + 1, s + 2, s + 3);
+                alert("free seats numbers " + free_seats);
+            }
+        }
+
+
+
+    </script>
+</head>
